@@ -1,0 +1,21 @@
+body{
+    background-color:#ffdf00;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    background-color: red;
+
+}
+.login{
+    text-align: center;
+    padding: 20px;
+}
+.note{
+    background-color: #ffd200;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 10px 20px;
+    padding: 10px;
+}
